@@ -1,0 +1,16 @@
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.exe
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.deps.json
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.runtimeconfig.json
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.runtimeconfig.dev.json
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.dll
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\ref\DiceHero.dll
+C:\workspace\DHProj\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.pdb
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.csproj.AssemblyReference.cache
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.AssemblyInfoInputs.cache
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.AssemblyInfo.cs
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.csproj.CoreCompileInputs.cache
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.dll
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\ref\DiceHero.dll
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.pdb
+C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.genruntimeconfig.cache
