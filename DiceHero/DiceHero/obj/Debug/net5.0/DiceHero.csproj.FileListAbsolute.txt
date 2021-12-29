@@ -14,3 +14,19 @@ C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.dll
 C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\ref\DiceHero.dll
 C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.pdb
 C:\workspace\DHProj\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.genruntimeconfig.cache
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.exe
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.deps.json
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.runtimeconfig.json
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.runtimeconfig.dev.json
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.dll
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\ref\DiceHero.dll
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\bin\Debug\net5.0\DiceHero.pdb
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.csproj.AssemblyReference.cache
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.AssemblyInfoInputs.cache
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.AssemblyInfo.cs
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.csproj.CoreCompileInputs.cache
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.dll
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\ref\DiceHero.dll
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.pdb
+C:\workspace\DICE HERO\DiceHero-Project\DiceHero\DiceHero\obj\Debug\net5.0\DiceHero.genruntimeconfig.cache

@@ -15,6 +15,11 @@ namespace DiceHero.Models
 
             if (heroLevel <= 5)
             {
+                Random random = new Random();
+                int EnemyNameIndex = random.Next(0, 5);
+                List<string> enemyNames = new List<string> {"Goblim", "Slime", "Esqueleto", "Zumbi", "Lobo"};
+                this.Name = enemyNames[EnemyNameIndex];
+
                 if (dice < 4)
                 {
                     this.Hp = (heroHp / 3) * 2;

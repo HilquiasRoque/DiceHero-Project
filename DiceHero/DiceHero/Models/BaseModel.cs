@@ -12,16 +12,18 @@ namespace DiceHero.Models
         public int Hp { get; set; }
         public bool Alive = true;
 
+        public void AttackInfo()
+        {
+            Console.WriteLine("    | 1-2 = miss! (0 dmg)   |");
+            Console.WriteLine("    | 3-5 = hit!  (1-2 dmg) |");
+            Console.WriteLine("    | 6   = crit! (3-4 dmg) |");
+            Console.WriteLine();
+        }
         public int Attack()
         {
             Random roll = new Random();
             int dice = roll.Next(1, 7);
             int dmg = 0;
-
-            Console.WriteLine("1-2 = erra o alvo (0 de dano)");
-            Console.WriteLine("3-5 = acerta o alvo (1-2 de dano)");
-            Console.WriteLine("6 = acerto crítico! (3-4 de dano)");
-            Console.WriteLine();
 
             if (dice < 3)
             {
