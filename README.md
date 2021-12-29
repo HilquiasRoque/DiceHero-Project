@@ -19,12 +19,12 @@ STATUS: em desenvolvimento.
 - O jogo só termina se o herói morrer.
 
 #v.1.1
-- Implementação de nomes diferentes para os inimigos
-- Alterações no código do programa para que fique mais enxuto
- (criei funções para as mensagens de texto do jogo)
+- Implementação de nomes diferentes para os inimigos.
+- Alterações no código do programa para que fique mais enxuto.
+  (criei funções para as mensagens de texto do jogo).
 - Criação de novo método para a classe BaseModel, que irá exibir a probabilidade
   dos ataques separadamente do método de ataque.
 - Há um bug que faz o herói upar facilmente após o subir para o nível 6. 
-  Isso acontece o HP do inimigo só será calculado até o herói ter nível 5. Após
-  este nível, os inimigos iniciam a luta com hp 0, o que faz com que o herói
+  Isso acontece porque o HP do inimigo só será calculado até o herói ter nível 5. 
+  Após este nível, os inimigos iniciam a luta com hp 0, o que faz com que o herói
   vença no primeiro turno. Será corrigido em breve.
